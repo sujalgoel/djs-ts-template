@@ -58,6 +58,6 @@ This template is an open-source software licensed under the [CC BY-NC-ND 4.0](ht
 If you have any questions or need support, please feel free to contact us:
 
 - Website: [https://sujalgoel.me](https://sujalgoel.me)
-- GitHub Issues: [https://github.com/sujalgoel/djs-ts-template/issues](https://github.com/sujalgoel/dross/issues)
+- GitHub Issues: [https://github.com/sujalgoel/djs-ts-template/issues](https://github.com/sujalgoel/djs-ts-template/issues)
 
 ---
